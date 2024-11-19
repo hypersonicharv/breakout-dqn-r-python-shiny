@@ -247,7 +247,7 @@ Allow human feedback to shape reward function:
 Would help align agent behavior with human intuition of skilled play, although I'd expect a decent DQN agent to be able to outplay most humans if trained sufficiently.
 
 ## License
-[Your chosen license]
+MIT License
 
 ## Acknowledgments
 - DeepMind's DQN papers: https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf and https://www.nature.com/articles/nature14236
